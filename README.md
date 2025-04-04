@@ -8,7 +8,7 @@
 <hr>
 
 ### PROGRAMMING LANGUAGE that I've tried
-    Python, Java, C, JavaScript
+    Python, Java, C
 ### Tech that I've tried
     Django, Spring Boot
     SQLite, PostgreSQL
