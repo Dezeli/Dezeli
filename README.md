@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Minseong Park (DEZELI)
-
 I'm a backend developer who enjoys discovering new things rather than repeating the same routines.  
 I mainly work with **Python** and **Django**, building scalable, reliable systems with clean design.  
 
-📧 **haterecursive@gmail.com**
 
 ---
 
@@ -58,3 +56,7 @@ I mainly work with **Python** and **Django**, building scalable, reliable system
 - Created **Python GUI apps** (Tkinter → EXE packaging)  
 - Developed web scrapers using `requests`, `selenium`, and `BeautifulSoup`  
 - Experimented with **Arduino** and **Raspberry Pi** for small IoT prototypes
+
+
+## 📫 How to reach me
+📧 `haterecursive@gmail.com`
