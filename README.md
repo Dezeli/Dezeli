@@ -58,5 +58,6 @@ I mainly work with **Python** and **Django**, building scalable, reliable system
 - Experimented with **Arduino** and **Raspberry Pi** for small IoT prototypes
 
 
+---
 ## 📫 How to reach me
 📧 `haterecursive@gmail.com`
